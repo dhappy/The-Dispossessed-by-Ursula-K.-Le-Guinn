@@ -18,21 +18,21 @@
   </metadata>
   <manifest>
     <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
-    <item href="Chapter%20%231.xhtml" id="chapter-1" media-type="application/xhtml+xml"/>
-    <item href="Chapter%20%232.xhtml" id="chapter-2" media-type="application/xhtml+xml"/>
-    <item href="Chapter%20%233.xhtml" id="chapter-3" media-type="application/xhtml+xml"/>
-    <item href="Chapter%20%234.xhtml" id="chapter-4" media-type="application/xhtml+xml"/>
-    <item href="Chapter%20%235.xhtml" id="chapter-5" media-type="application/xhtml+xml"/>
-    <item href="Chapter%20%236.xhtml" id="chapter-6" media-type="application/xhtml+xml"/>
-    <item href="Chapter%20%237.xhtml" id="chapter-7" media-type="application/xhtml+xml"/>
-    <item href="Chapter%20%238.xhtml" id="chapter-8" media-type="application/xhtml+xml"/>
-    <item href="Chapter%20%239.xhtml" id="chapter-9" media-type="application/xhtml+xml"/>
-    <item href="Chapter%20%23A.xhtml" id="chapter-A" media-type="application/xhtml+xml"/>
-    <item href="Chapter%20%23B.xhtml" id="chapter-B" media-type="application/xhtml+xml"/>
-    <item href="Chapter%20%23C.xhtml" id="chapter-C" media-type="application/xhtml+xml"/>
-    <item href="Chapter%20%23D.xhtml" id="chapter-D" media-type="application/xhtml+xml"/>
+    <item href="chapter_1.xhtml" id="chapter-1" media-type="application/xhtml+xml"/>
+    <item href="chapter_2.xhtml" id="chapter-2" media-type="application/xhtml+xml"/>
+    <item href="chapter_3.xhtml" id="chapter-3" media-type="application/xhtml+xml"/>
+    <item href="chapter_4.xhtml" id="chapter-4" media-type="application/xhtml+xml"/>
+    <item href="chapter_5.xhtml" id="chapter-5" media-type="application/xhtml+xml"/>
+    <item href="chapter_6.xhtml" id="chapter-6" media-type="application/xhtml+xml"/>
+    <item href="chapter_7.xhtml" id="chapter-7" media-type="application/xhtml+xml"/>
+    <item href="chapter_8.xhtml" id="chapter-8" media-type="application/xhtml+xml"/>
+    <item href="chapter_9.xhtml" id="chapter-9" media-type="application/xhtml+xml"/>
+    <item href="chapter_A.xhtml" id="chapter-A" media-type="application/xhtml+xml"/>
+    <item href="chapter_B.xhtml" id="chapter-B" media-type="application/xhtml+xml"/>
+    <item href="chapter_C.xhtml" id="chapter-C" media-type="application/xhtml+xml"/>
+    <item href="chapter_D.xhtml" id="chapter-D" media-type="application/xhtml+xml"/>
     <item href="style.css" id="css" media-type="text/css"/>
-    <item href="title.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="index.html" id="titlepage" media-type="application/xhtml+xml"/>
     <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
   </manifest>
   <spine toc="ncx">
@@ -52,6 +52,6 @@
     <itemref idref="chapter-D"/>
   </spine>
   <guide>
-    <reference href="title.xhtml" type="cover" title="Cover"/>
+    <reference href="index.html" type="cover" title="Cover"/>
   </guide>
 </package>

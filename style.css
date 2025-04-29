@@ -1,4 +1,18 @@
 @namespace h "http://www.w3.org/1999/xhtml";
+
+:root {
+  color-scheme: light dark;
+}
+
+body {
+  max-width: 75ch;
+  margin-inline: auto;
+  font-size: 13.5pt;
+  text-wrap: pretty;
+  text-align: justify;
+}
+
+
 .calibre {
     display: block;
     font-size: 1em;
