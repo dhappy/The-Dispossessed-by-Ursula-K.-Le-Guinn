@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="caedfa87-3c54-406b-a88f-c12d2492f0be" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.7.23)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Dispossessed</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="2cb5919a-7b56-48ec-8838-0c00ac6c310f" playOrder="1">
+      <navLabel>
+        <text>Chapter 2</text>
+      </navLabel>
+      <content src="index_split_001.html"/>
+    </navPoint>
+    <navPoint id="0a7a811b-aba6-4128-bda7-9ddd8b9968f5" playOrder="2">
+      <navLabel>
+        <text>Chapter 3</text>
+      </navLabel>
+      <content src="index_split_002.html"/>
+    </navPoint>
+    <navPoint id="113a035b-c50c-4804-9133-2e0567ae26f2" playOrder="3">
+      <navLabel>
+        <text>Chapter 4</text>
+      </navLabel>
+      <content src="index_split_003.html"/>
+    </navPoint>
+    <navPoint id="bb894fd0-85f0-43d9-a24d-ef85a23d706c" playOrder="4">
+      <navLabel>
+        <text>Chapter 5</text>
+      </navLabel>
+      <content src="index_split_004.html"/>
+    </navPoint>
+    <navPoint id="bf6cc6af-b9b0-4c53-96de-8bcba69bf30c" playOrder="5">
+      <navLabel>
+        <text>Chapter 6</text>
+      </navLabel>
+      <content src="index_split_005.html"/>
+    </navPoint>
+    <navPoint id="1d9f25cd-6e64-447a-aa3b-6b912cde5a9d" playOrder="6">
+      <navLabel>
+        <text>Chapter 7</text>
+      </navLabel>
+      <content src="index_split_006.html"/>
+    </navPoint>
+    <navPoint id="a84dfe55-6f66-4ad2-baa9-8a5a449501ef" playOrder="7">
+      <navLabel>
+        <text>Chapter 8</text>
+      </navLabel>
+      <content src="index_split_007.html"/>
+    </navPoint>
+    <navPoint id="759305c5-7777-49ad-af4f-69728da0931d" playOrder="8">
+      <navLabel>
+        <text>Chapter 9</text>
+      </navLabel>
+      <content src="index_split_008.html"/>
+    </navPoint>
+    <navPoint id="319b6586-cfba-4c53-81bd-1a7e44f49ab7" playOrder="9">
+      <navLabel>
+        <text>Chapter 10</text>
+      </navLabel>
+      <content src="index_split_009.html"/>
+    </navPoint>
+    <navPoint id="06f6232a-35e7-425c-8226-4a3c42c07f9e" playOrder="10">
+      <navLabel>
+        <text>Chapter 11</text>
+      </navLabel>
+      <content src="index_split_010.html"/>
+    </navPoint>
+    <navPoint id="e4ea275e-f2d3-4558-ae90-e7c635a741b3" playOrder="11">
+      <navLabel>
+        <text>Chapter 12</text>
+      </navLabel>
+      <content src="index_split_011.html"/>
+    </navPoint>
+    <navPoint id="2f41225d-4dc7-431d-86e1-dea8dc0f7479" playOrder="12">
+      <navLabel>
+        <text>Chapter 13</text>
+      </navLabel>
+      <content src="index_split_012.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
